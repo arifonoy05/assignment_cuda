@@ -318,9 +318,10 @@ color: #4ebdea;
     text-decoration: none;
     font-weight: bold;
 }
-.touch a:hover{	
+.touch a:hover{
 	background-color: #299ec5;
-    box-shadow: 0 4px 0 #2488a9;
+	box-shadow: 0 4px 0 #2488a9;
+	transition:  0.4s ease;
 }
 .social-section{
 	background-color: #344b8e;
